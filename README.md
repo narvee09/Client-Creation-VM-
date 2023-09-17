@@ -31,3 +31,9 @@ Input the iso image and click on mount and retry boot
 
 <h3>Windows 10 Setup</h3>
 imgplaceholder of all steps                                                                   (c6 - c11)
+
+The VM will restart
+ssetup continued ----                                                                        (c12 - c15)
+
+<h3>Connect to internal network</h3>
+
