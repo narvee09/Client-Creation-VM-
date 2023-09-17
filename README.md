@@ -38,3 +38,8 @@ ssetup continued ----                                                           
 <h3>Connect to internal network</h3>                                                        (c16)
  Click on start and search for "run" and type in "cmd" to open the command prompt            (c17,c18)
 in command prompt type in "ipconfig"                                                         (c19)
+confirm NAT is working by pinging a website.                                                 (c20)
+
+<h3>Add client to the Domain</h3>
+Right click on start > system > then scroll down and click on "rename this PC (advanced)"    (c21)
+input admin credentials, the client will restart (c22, dc58)
