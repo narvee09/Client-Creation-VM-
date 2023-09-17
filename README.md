@@ -35,5 +35,6 @@ imgplaceholder of all steps                                                     
 The VM will restart
 ssetup continued ----                                                                        (c12 - c15)
 
-<h3>Connect to internal network</h3>
-
+<h3>Connect to internal network</h3>                                                        (c16)
+ Click on start and search for "run" and type in "cmd" to open the command prompt            (c17,c18)
+in command prompt type in "ipconfig"                                                         (c19)
