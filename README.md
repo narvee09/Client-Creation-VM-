@@ -37,7 +37,7 @@ Set the base memory to 4096 mB, set processors to 2, set virtual hard disk to 50
 <h3>Networking</h3>
 <br>
 <div>
-Connecct adapter to the internal NIC, created during server creation, open settings then click on network, adapter 1 and select internal network.
+Connect adapter to the internal NIC, created during server creation, open settings then click on network, adapter 1 and select internal network.
 </div>
 <br>
 <div
